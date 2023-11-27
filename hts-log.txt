@@ -1,0 +1,67 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Nov 2023 10:15:17 at https://theearth.ngo/photo-gallery +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theearth.ngo/photo-gallery -O1 "D:\My Web Sites\n_Ngo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:16:26	Error: 	"Not Found" (404) at link https://theearth.ngo/assets/images/shape/shape-1.png (from https://theearth.ngo/photo-gallery)
+10:17:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://theearth.ngo/blog-detail/Intern Experience: Shradha K Sikaria (from https://theearth.ngo/)
+10:17:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://theearth.ngo/blog-detail/SHUDDHI (from https://theearth.ngo/)
+10:17:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://theearth.ngo/blog-detail/POVERTY AND INEQUALITY IN INDIA (from https://theearth.ngo/)
+10:17:32	Error: 	"Not Found" (404) at link https://theearth.ngo/assets/images/shape/shape-37.png (from https://theearth.ngo/donate)
+10:17:35	Error: 	"Not Found" (404) at link https://theearth.ngo/about-us/assets/images/shape/shape-1.png (from https://theearth.ngo/about-us/about)
+10:17:35	Error: 	"Not Found" (404) at link https://theearth.ngo/about-us/public/web/assets/images/background/13.jpg (from https://theearth.ngo/about-us/about)
+10:17:35	Error: 	"Not Found" (404) at link https://theearth.ngo/assets/images/shape/shape-23.png (from https://theearth.ngo/our-team)
+10:17:36	Error: 	"Not Found" (404) at link https://theearth.ngo/works/assets/images/shape/shape-1.png (from https://theearth.ngo/works/SDG -5)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/our-campaigns/assets/images/shape/shape-1.png (from https://theearth.ngo/our-campaigns/35)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/member/assets/images/shape/shape-1.png (from https://theearth.ngo/member/verification)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/volunteer/assets/images/shape/shape-1.png (from https://theearth.ngo/volunteer/form)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/public/web/assets/js/custom.js (from https://theearth.ngo/volunteer/verification)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/Internship/assets/images/shape/shape-1.png (from https://theearth.ngo/Internship/form)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/Intern/assets/images/shape/shape-1.png (from https://theearth.ngo/Intern/verification)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/assets/images/shape/shape-20.png (from https://theearth.ngo/past-event)
+10:17:42	Error: 	"Not Found" (404) at link https://theearth.ngo/our/assets/images/shape/shape-1.png (from https://theearth.ngo/our/achievement)
+10:17:43	Error: 	"Not Found" (404) at link https://theearth.ngo/our/links/assets/images/shape/shape-1.png (from https://theearth.ngo/our/links/privacy-and-policy)
+10:17:43	Error: 	"Not Found" (404) at link https://theearth.ngo/popper.js (from https://theearth.ngo/public/web/assets/js/bootstrap.min.js)
+10:17:43	Warning: 	Moved Permanently for https://theearth.ngo/Version/
+10:17:43	Warning: 	File has moved from https://theearth.ngo/Version/ to https://theearth.ngo/Version
+10:17:43	Warning: 	Moved Permanently for https://theearth.ngo/version/
+10:17:43	Warning: 	File has moved from https://theearth.ngo/version/ to https://theearth.ngo/version
+10:17:44	Error: 	"Not Found" (404) at link https://theearth.ngo/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.min.js (from https://theearth.ngo/public/web/assets/js/scrollbar.js)
+10:17:44	Warning: 	Moved Permanently for https://theearth.ngo/Trident/
+10:17:44	Warning: 	File has moved from https://theearth.ngo/Trident/ to https://theearth.ngo/Trident
+10:17:44	Warning: 	Moved Permanently for https://theearth.ngo/Edge/
+10:17:44	Warning: 	File has moved from https://theearth.ngo/Edge/ to https://theearth.ngo/Edge
+10:17:45	Warning: 	Moved Permanently for https://theearth.ngo/edge/
+10:17:45	Warning: 	File has moved from https://theearth.ngo/edge/ to https://theearth.ngo/edge
+10:17:45	Warning: 	Moved Permanently for https://theearth.ngo/mobile/
+10:17:45	Warning: 	File has moved from https://theearth.ngo/mobile/ to https://theearth.ngo/mobile
+10:17:46	Error: 	"Not Found" (404) at link https://theearth.ngo/GET (from https://theearth.ngo/public/assets/plugins/tinymce/tinymce.min.js)
+10:17:46	Warning: 	Moved Permanently for https://theearth.ngo/TinyMCE does not support the browser you are using. For a list of supported browsers please see: https://www.tinymce.com/docs/get-started/system-requirements/
+10:17:46	Warning: 	File has moved from https://theearth.ngo/TinyMCE does not support the browser you are using. For a list of supported browsers please see: https://www.tinymce.com/docs/get-started/system-requirements/ to https://theearth.ngo/TinyMCE%20does%20not%20support%20the%20browser%20you%20are%20using.%20For%20a%20list%20of%20supported%20browsers%20please%20see:%20https://www.tinymce.com/docs/get-started/system-requirements
+10:17:46	Error: 	"Not Found" (404) at link https://theearth.ngo/event_detail/assets/images/shape/shape-1.png (from https://theearth.ngo/event_detail/Know how to Raise Funds through Social media)
+10:17:46	Error: 	"Forbidden" (403) at link https://theearth.ngo/public/uploads/event/image/ (from https://theearth.ngo/event_detail/Know how to Raise Funds through Social media)
+10:17:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://theearth.ngo/blog-detail/Intern Experience: Shradha K Sikaria (from https://theearth.ngo/)
+10:17:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://theearth.ngo/blog-detail/SHUDDHI (from https://theearth.ngo/)
+10:17:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://theearth.ngo/blog-detail/POVERTY AND INEQUALITY IN INDIA (from https://theearth.ngo/)
+10:17:46	Error: 	"Not Found" (404) at link https://theearth.ngo/password/assets/images/shape/shape-1.png (from https://theearth.ngo/password/reset)
+10:17:46	Error: 	"Not Found" (404) at link https://theearth.ngo/team/assets/images/shape/shape-1.png (from https://theearth.ngo/team/dr-rajendra-kumar)
+10:17:46	Error: 	"Not Found" (404) at link https://theearth.ngo/team/public/web/assets/images/shapes/sidebar-shape-1.png (from https://theearth.ngo/team/dr-rajendra-kumar)
+10:17:46	Error: 	"Not Found" (404) at link https://theearth.ngo/work-detail/assets/images/shape/shape-1.png (from https://theearth.ngo/work-detail/Come read and buy the books the people loved..)
+10:17:50	Error: 	"Not Found" (404) at link https://theearth.ngo/news/detail/assets/images/shape/shape-1.png (from https://theearth.ngo/news/detail/Special reference on DAC by The High Court of Kerala)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/Version (from https://theearth.ngo/Version/)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/version (from https://theearth.ngo/version/)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/Trident (from https://theearth.ngo/Trident/)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/Edge (from https://theearth.ngo/Edge/)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/edge (from https://theearth.ngo/edge/)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/mobile (from https://theearth.ngo/mobile/)
+10:17:50	Error: 	"Error when decompressing" (-1) at link https://theearth.ngo/TinyMCE does not support the browser you are using. For a list of supported browsers please see: https://www.tinymce.com/docs/get-started/system-requirements (from https://theearth.ngo/TinyMCE does not support the browser you are using. For a list of supported browsers please see: https://www.tinymce.com/docs/get-started/system-requirements/)
+10:17:50	Error: 	"Internal Server Error" (500) after 2 retries at link https://theearth.ngo/blog-detail/Intern Experience: Shradha K Sikaria (from https://theearth.ngo/)
+10:17:50	Error: 	"Internal Server Error" (500) after 2 retries at link https://theearth.ngo/blog-detail/SHUDDHI (from https://theearth.ngo/)
+10:17:50	Error: 	"Internal Server Error" (500) after 2 retries at link https://theearth.ngo/blog-detail/POVERTY AND INEQUALITY IN INDIA (from https://theearth.ngo/)
+10:17:50	Error: 	"Forbidden" (403) at link https://theearth.ngo/public/uploads/media/ (from https://theearth.ngo/news/detail/Summer Challenge)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 34 seconds : 257 links scanned, 207 files written (17076037 bytes overall) [14681128 bytes received at 95332 bytes/sec], 13144020 bytes transferred using HTTP compression in 146 files, ratio 27%, 11.2 requests per connection
+(36 errors, 20 warnings, 0 messages)
